@@ -49,6 +49,7 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Screenshots
 
+<link rel="stylesheet" href="github-markdown.css">
 <span class="wrapper" style="display: flex;justify-content: space-evenly;" markdown="1">
    <img src="./screenshots/main.png" alt="drawing" style="width:200px;"/>
    <img src="./screenshots/list.png" alt="drawing" style="width:200px;"/>
