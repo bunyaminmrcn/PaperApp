@@ -46,6 +46,15 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+
+## Screenshots
+
+
+<div style="display: flex;justify-content: space-evenly;">
+   <img src="./screenshots/main.png" alt="drawing" style="width:200px;"/>
+   <img src="./screenshots/list.png" alt="drawing" style="width:200px;"/>
+</div>
+
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
